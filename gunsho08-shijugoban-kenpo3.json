@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shijugoban-kenpo3-utaawase",
  "yomi": "しじゅうごばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（四十五番）",
+  "era": "建保3年（1215）6月2日",
+  "author": "主催 順徳天皇",
+  "desc": "順徳天皇のもとで催された四十五番の歌合。春山朝・夏夕・行路秋・暁時雨・松経年などの題で、院・行意・通光・家隆・慈円・定家・雅経・俊成卿女らが詠み、衆議で判を定め、判詞は後日宸筆で下された。"
+ },
  "editions": [
   {
    "pid": "1879502",
